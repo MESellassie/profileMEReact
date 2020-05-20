@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/profilemereact/static/css/main.fc16cda7.chunk.css",
+    "main.js": "/profilemereact/static/js/main.3ce27b0b.chunk.js",
+    "main.js.map": "/profilemereact/static/js/main.3ce27b0b.chunk.js.map",
+    "runtime-main.js": "/profilemereact/static/js/runtime-main.6446b95a.js",
+    "runtime-main.js.map": "/profilemereact/static/js/runtime-main.6446b95a.js.map",
+    "static/js/2.1786c6eb.chunk.js": "/profilemereact/static/js/2.1786c6eb.chunk.js",
+    "static/js/2.1786c6eb.chunk.js.map": "/profilemereact/static/js/2.1786c6eb.chunk.js.map",
+    "index.html": "/profilemereact/index.html",
+    "precache-manifest.bbddc32efad7371c0864d7cc494d263a.js": "/profilemereact/precache-manifest.bbddc32efad7371c0864d7cc494d263a.js",
+    "service-worker.js": "/profilemereact/service-worker.js",
+    "static/css/main.fc16cda7.chunk.css.map": "/profilemereact/static/css/main.fc16cda7.chunk.css.map",
+    "static/js/2.1786c6eb.chunk.js.LICENSE.txt": "/profilemereact/static/js/2.1786c6eb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6446b95a.js",
+    "static/js/2.1786c6eb.chunk.js",
+    "static/css/main.fc16cda7.chunk.css",
+    "static/js/main.3ce27b0b.chunk.js"
+  ]
+}
