@@ -20,7 +20,7 @@ function Resume(props) {
                             <p id="tagline">EXPERIENCE | YOU CAN TRUST</p>
                             <hr className="my-4" />
                             <p><a href="assets/ME-Web Developer Resume.pdf" target="_blank" id="pdfLink">Download the PDF file.</a></p>
-                            <img class="" src="https://github.com/MESellassie/profileMEReact/blob/master/profilemereact/public/assets/resume-cover.jpg?raw=true" alt="resume" width="90%" height="90%" />
+                            <img class="" src="https://github.com/MESellassie/profileMEReact/blob/master/public/assets/resume-cover.jpg?raw=true" alt="resume" width="90%" height="90%" />
                             {props.children}
                         </div>
                     </Row>

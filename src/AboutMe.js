@@ -22,8 +22,8 @@ function AboutMe(props) {
                                 <h1 className="display-4">About ME</h1>
                                 <p id="tagline">DEDICATION | TO GET THE JOB DONE</p>
                                 <hr className="my-4"></hr>
-                                <img src="https://github.com/MESellassie/profileMEReact/blob/master/profilemereact/public/assets/MEvans-headshot-bw.jpg?raw=true" alt="my-biobw-img" class="bio-bw-image image-fluid" />
-                                <img src="https://github.com/MESellassie/profileMEReact/blob/master/profilemereact/public/assets/MEvans-headshot.jpg?raw=true" alt="my-bio-img" class="bio-image image-fluid" />
+                                <img src="https://github.com/MESellassie/profileMEReact/blob/master/public/assets/MEvans-headshot-bw.jpg?raw=true" alt="my-biobw-img" class="bio-bw-image image-fluid" />
+                                <img src="https://github.com/MESellassie/profileMEReact/blob/master/public/assets/MEvans-headshot.jpg?raw=true" alt="my-bio-img" class="bio-image image-fluid" />
                                 <p className="lead">
                                     I am a burgeoning web developer with over five years web management experience
                                     with front-end Content Management Systems including WordPress and Kentico, Graphic Design
