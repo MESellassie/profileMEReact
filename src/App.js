@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { BrowserRouter as Router, Route } from "react-router-dom";
+import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import Navbar from "./Navbar";
 import Container from "./Container";
 import Jumbotron from "./Jumbotron";
@@ -15,11 +15,13 @@ class App extends Component {
   render() {
     return (
       <Router>
+        <Switch>
       <div className="App">
         <Route exact path="/" component={AboutMe}/>
         <Route exact path="/portfolio" component={Portfolio}/>
         <Route exact path="/resume" component={Resume}/>
       </div>
+      </Switch>
       </Router>
     )
   }
