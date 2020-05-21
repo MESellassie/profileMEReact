@@ -20,6 +20,8 @@ class App extends Component {
         <Route exact path="/" component={AboutMe}/>
         <Route exact path="/portfolio" component={Portfolio}/>
         <Route exact path="/resume" component={Resume}/>
+    <Route> component={()=> 
+    <div>404 not found</div>}</Route>
       </div>
       </Switch>
       </Router>
