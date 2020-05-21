@@ -17,11 +17,11 @@ class App extends Component {
       <Router>
         <Switch>
       <div className="App">
-        <Route exact path="/profilemereact/" component={AboutMe}/>
-        <Route exact path="/profilemereact/portfolio" component={Portfolio}/>
-        <Route exact path="/profilemereact/resume" component={Resume}/>
-    <Route> component={()=> 
-    <div>404 not found</div>}</Route>
+        <Route exact path="/" component={AboutMe}/>
+        <Route exact path="/portfolio" component={Portfolio}/>
+        <Route exact path="/resume" component={Resume}/>
+    <Route component={()=> 
+    <div>404 not found</div>}></Route>
       </div>
       </Switch>
       </Router>
