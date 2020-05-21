@@ -18,12 +18,12 @@ function Sidebar(props) {
 
                 <li className="text-center" id="socialIcon">
                     <a href="https://www.linkedin.com/in/micah-evans-79076335/" target="_blank">
-                        <img src="https://raw.githubusercontent.com/MESellassie/profileMEReact/master/profilemereact/public/assets/icons8-linkedin-50-white.png" width="40" height="40" alt="LinkedIn Icon"></img>
+                        <img src="https://github.com/MESellassie/profilemereact/blob/master/public/assets/icons8-linkedin-50-white.png?raw=true" width="40" height="40" alt="LinkedIn Icon"></img>
                     </a>
                 </li>
                 <li className="text-center" id="socialIcon">
                     <a href="https://github.com/MESellassie" target="_blank">
-                        <img src="https://raw.githubusercontent.com/MESellassie/profileMEReact/master/profilemereact/public/assets/icons8-github-48-white.png" width="40" height="40" alt="GitHub Icon"></img>
+                        <img src="https://github.com/MESellassie/profilemereact/blob/master/public/assets/icons8-github-48-white.png?raw=true" width="40" height="40" alt="GitHub Icon"></img>
                     </a>
                 </li>
             </ul>
