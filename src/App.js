@@ -1,12 +1,12 @@
 import React, { Component } from 'react';
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
-import Navbar from "./Navbar";
-import Container from "./Container";
-import Jumbotron from "./Jumbotron";
-import Row from "./Row";
-import Sidebar from "./Sidebar";
+// import Navbar from "./Navbar";
+// import Container from "./Container";
+// import Jumbotron from "./Jumbotron";
+// import Row from "./Row";
+// import Sidebar from "./Sidebar";
 import AboutMe from "./AboutMe";
-import Footer from "./Footer";
+// import Footer from "./Footer";
 import Portfolio from "./Portfolio";
 import Resume from "./Resume";
 import './App.css';
